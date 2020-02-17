@@ -1,0 +1,28 @@
+html{
+    font-size: 62.5%;
+}
+
+body {
+    background: $dull-red;
+    font-family: $secondary-font;
+ 
+    font-size: $m-size;
+
+}
+
+h1{
+    font-family: $primary-font;
+    color: white;
+}
+
+button{
+    cursor:pointer;
+}
+
+button:disabled{
+    cursor: default;
+}
+
+.is-active{
+    font-weight: bold;
+}
