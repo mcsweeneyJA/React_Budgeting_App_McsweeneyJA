@@ -21,3 +21,5 @@ exports[`should render editExpensePage 1`] = `
   </button>
 </div>
 `;
+
+exports[`should render startEditExpense 1`] = `undefined`;
