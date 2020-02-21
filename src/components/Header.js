@@ -3,7 +3,7 @@ import React from 'react';
 
 const Header = () => (
     <header>
-        <h1>Expensify</h1>
+        <h1>NX cash tracker</h1>
         <NavLink to="/" activeClassName="is-active" exact={true}> Dashboard </NavLink>
        
         
